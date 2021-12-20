@@ -1,0 +1,26 @@
+{
+    "nombreApp" : "Navegacion_tarea1",
+    "menu" : [
+        {
+            "ruta" : "team",
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "services",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "about",
+            "texto": "About"
+        },
+        {
+            "ruta" : "error",
+            "texto": "Animated Container"
+        },
+        {
+            "ruta" : "inicio",
+            "texto" : "inicio"
+        }
+        
+    ]
+}
